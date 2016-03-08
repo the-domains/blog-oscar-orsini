@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Todos
   nosotros estamos en un camino en la vida.
-datePublished: '2016-03-08T22:54:48.737Z'
-dateModified: '2016-03-08T22:53:11.501Z'
+datePublished: '2016-03-08T22:57:09.512Z'
+dateModified: '2016-03-08T22:54:41.412Z'
 title: Siendo Inspiración
 author: []
 sourcePath: _posts/2016-03-08-siendo-inspiracion.md
@@ -24,8 +24,8 @@ url: siendo-inspiracion/index.html
 _type: Article
 
 ---
-Siendo Inspiración
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a28464ee-2137-4b5c-a43b-b811a4f650e8.png)
+# Siendo Inspiración
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9af79491e6542e118e3ef8480a87ddbddc7ae9f1.png)
 
 Todos
 nosotros estamos en un camino en la vida. Algunos estamos siguiéndolo, otros estamos creándolo. Sea cual sea el caso tuyo en particular, hay
