@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Bienvenidos a mi página, un pequeño espacio en donde podrás conocer un poco más de cerca a Oscar Orsini Flamberg, un jóven empresario en busca de hacer la diferencia por su país. Aquí podrás aprender sobre quién soy, qué hago y algunas de mis cosas favoritas. Todo lo que encontrarás aquí es un reflejo de sucesos que han transcurrido en mi pasado, el presente que vivo y el futuro que quiero crear.'
-datePublished: '2016-03-08T22:26:46.160Z'
-dateModified: '2016-03-08T22:17:29.917Z'
+datePublished: '2016-03-08T22:35:57.490Z'
+dateModified: '2016-03-08T22:35:51.157Z'
 title: 'Un poco sobre mi!'
 author: []
+sourcePath: _posts/2016-03-08-un-poco-sobre-mi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-un-poco-sobre-mi.md
-published: true
 url: un-poco-sobre-mi/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Un poco sobre mi!
