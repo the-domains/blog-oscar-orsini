@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hoy día estamos\nviviendo muchos cambios en nuestro entorno, estamos viendo un despertar de una\nnueva conciencia humana, una conciencia que ha comenzado a nacer y es lo que\npodemos llamar un despertar espiritual. "
-datePublished: '2016-03-08T15:49:54.416Z'
-dateModified: '2016-03-08T15:49:08.640Z'
+datePublished: '2016-03-08T22:36:30.371Z'
+dateModified: '2016-03-08T16:06:58.437Z'
 title: Soltando el Control
 author: []
+sourcePath: _posts/2016-03-08-soltando-el-control.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-soltando-el-control.md
-published: true
 url: soltando-el-control/index.html
 _type: Article
 
@@ -92,6 +92,39 @@ experimentando lo malo se puede experimentar lo bueno.
 > obstáculos, tampoco hay caminos predeterminados. Si soltamos el control y
 > logramos la conexión con nuestro espíritu, cada uno sabrá cuál es su camino. 
 
-Debemos permitirnos vivir de acuerdo con nuestra intuición, vivir relajados,
-sin resistir, ser fluidos; si me enojo, lo acepto, lo veo, giro y paralelamente
-comienzo a construir otras emociones. ¿Y tú? ¿Has soltado el control?
+Cuando hablamos de
+soltar el control, no estamos hablando de abandono, estamos hablando de
+liberarnos de nuestras ataduras, desistir emplear nuestras energías en la lucha
+diaria, en la resistencia y fluir en un camino.
+
+De esta manera, rendimos a la sabiduría de nuestro corazón dejando de
+lado los conceptos basados en el miedo y todo lo que se deriva de el.  Está percepción que
+tenemos sobre soltar el control es errónea.
+
+La rendición de la cual estamos hablando, es aquella en que nos volvemos
+más confiados, nos conectamos con nuestra propia alma.  Nosotros los seres humanos no sólo atraemos
+lo que amamos y deseamos, sino también a lo que resistimos y no queremos.
+
+> En la vida tenemos un
+> sol y una noche, un polo positivo y un polo negativo.
+
+La realidad, es que nos cuesta aceptar que en
+toda escala hay dos polos y cada uno desempeña un rol.
+
+Debemos aceptar que la vida es dualidad, que
+debemos encontrar entre esos polos un equilibrio, debemos buscar la forma de
+integrarlos, de aceptarlos, aunque queramos resistirlo. Entonces más que tratar
+de evitar y resistir las equivocaciones, volvámonos sabios a través de la
+experiencia, ya que sólo experimentando lo malo se puede experimentar lo bueno.
+
+No hay camino sin
+obstáculos, tampoco hay caminos predeterminados.
+
+Si soltamos el control y logramos la conexión
+con nuestro espíritu, cada uno sabrá cual es su camino. Debemos permitirnos
+vivir de acuerdo a nuestra intuición, vivir relajados, sin resistir, ser fluido;
+si me enojo, lo acepto, lo veo, giro y paralelamente comienzo a construir otras
+emociones.
+
+¿Y tú? ¿Has soltado el
+control?
