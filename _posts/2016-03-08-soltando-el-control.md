@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hoy día estamos\nviviendo muchos cambios en nuestro entorno, estamos viendo un despertar de una\nnueva conciencia humana, una conciencia que ha comenzado a nacer y es lo que\npodemos llamar un despertar espiritual. "
-datePublished: '2016-03-08T22:36:30.371Z'
-dateModified: '2016-03-08T16:06:58.437Z'
+datePublished: '2016-03-08T22:58:07.760Z'
+dateModified: '2016-03-08T22:57:34.137Z'
 title: Soltando el Control
 author: []
 sourcePath: _posts/2016-03-08-soltando-el-control.md
