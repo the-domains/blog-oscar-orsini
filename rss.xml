@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Blog Oscar Orsini]]></title>
-        <description><![CDATA[Blog Oscar Orsini]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Artículos de la vida cotidiana sobre Liderazgo]]></title>
+        <description><![CDATA[Artículos de la vida cotidiana sobre Liderazgo]]></description>
+        <link>https://thegrid.ai/blog-oscar-orsini/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 15:50:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 16:12:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blog-oscar-orsini/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Siendo Inspiración]]></title>
+            <description><![CDATA[<article><h1>Siendo Inspiración</h1><p>Todos
+nosotros estamos en un camino en la vida.</p></article>]]></description>
+            <link>https://thegrid.ai/blog-oscar-orsini/siendo-inspiracion/index.html</link>
+            <guid isPermaLink="false">5f7dbd54-3afe-4834-ad2b-beb4cccaadf7</guid>
+            <pubDate>Tue, 08 Mar 2016 16:10:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Soltando el Control]]></title>
             <description><![CDATA[<article><h1>Soltando el Control</h1><p>Hoy día estamos
 viviendo muchos cambios en nuestro entorno, estamos viendo un despertar de una
 nueva conciencia humana, una conciencia que ha comenzado a nacer y es lo que
 podemos llamar un despertar espiritual. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5756ea28f448fd138fe45ebd0a40edf2dfb77b8a.png"></article>]]></description>
-            <link>undefinedsoltando-el-control/index.html</link>
+            <link>https://thegrid.ai/blog-oscar-orsini/soltando-el-control/index.html</link>
             <guid isPermaLink="false">c6ac7ab8-378c-4d5d-be14-a56b8792cb1f</guid>
             <pubDate>Tue, 08 Mar 2016 15:49:54 GMT</pubDate>
         </item>
