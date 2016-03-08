@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Bienvenidos a mi página, un pequeño espacio en donde podrás conocer un poco más de cerca a Oscar Orsini Flamberg, un jóven empresario en busca de hacer la diferencia por su país. Aquí podrás aprender sobre quién soy, qué hago y algunas de mis cosas favoritas. Todo lo que encontrarás aquí es un reflejo de sucesos que han transcurrido en mi pasado, el presente que vivo y el futuro que quiero crear.'
-datePublished: '2016-03-08T22:35:57.490Z'
-dateModified: '2016-03-08T22:35:51.157Z'
+datePublished: '2016-03-08T22:57:53.055Z'
+dateModified: '2016-03-08T22:56:59.035Z'
 title: 'Un poco sobre mi!'
 author: []
 sourcePath: _posts/2016-03-08-un-poco-sobre-mi.md
@@ -27,6 +27,8 @@ _type: WebPage
 
 Bienvenidos a mi página, un pequeño espacio en donde podrás conocer un poco más de cerca a Oscar Orsini Flamberg, un jóven empresario en busca de hacer la diferencia por su país. Aquí podrás aprender sobre quién soy, qué hago y algunas de mis cosas favoritas. Todo lo que encontrarás aquí es un reflejo de sucesos que han transcurrido en mi pasado, el presente que vivo y el futuro que quiero crear.
 
+Descarga mi resume [aquí][0]
+
 Soy un hombre lider, responsable y apasionado, que disfruta tanto de la vida profesional como de las cosas personales. Disfruto mucho del Golf, del cine y así también como de actividades sociales.
 
 Desde joven siempre tuve mucha pasión por la tecnología. Pude tener mi primera PC cuando tenía 15 años (era un 486DX a 100Mhz) ya pueden ustedes imaginarse lo que es incursionar en la tecnología utilizando DOS como sistema operativo.
@@ -43,3 +45,5 @@ Así lo vi yo, un crecimiento constante sobre mi persona. La pregunta que me lle
 Para hacer corta, una historia larga, hoy día sigo incursionando en la lectura dirigida, haciendo trabajo de coaching (personal y profesional), escribiendo una columna de liderazgo en acción, entre otros.
 
 Esto no es más que otro semestre en la "Universidad de la Vida".
+
+[0]: http://oscarorsini.com/Resume%20ES%20Oscar%20Orsini.pdf
