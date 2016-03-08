@@ -1,25 +1,25 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: |-
   Todos
   nosotros estamos en un camino en la vida.
-datePublished: '2016-03-08T16:10:35.699Z'
-dateModified: '2016-03-08T16:09:36.550Z'
+datePublished: '2016-03-08T22:36:10.581Z'
+dateModified: '2016-03-08T22:33:29.797Z'
 title: Siendo Inspiración
 author: []
+sourcePath: _posts/2016-03-08-siendo-inspiracion.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-siendo-inspiracion.md
-published: true
 url: siendo-inspiracion/index.html
 _type: Article
 
